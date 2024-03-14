@@ -1,4 +1,6 @@
-# 将微信读书划线和笔记同步到Notion
+# WeRead2Notion
 
-本项目通过Github Action每天定时同步微信读书划线到Notion。
+Sync WeRead notes & reading time -> Notion
 
+- [Getting start](https://malinkang.com/posts/weread2notion-pro/)
+- [Customize heatmap color](https://malinkang.com/posts/github_heatmap/)
